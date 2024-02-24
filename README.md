@@ -11,6 +11,8 @@ Things i use (i guess?) : <br>
 
 Live view (until there is no more?) :- don't have one because free hosting doesn't support cli commands
 
+Highlight Features : User & Admin portal
+
 Instructions to run the app
 ==================
 
