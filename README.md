@@ -1,7 +1,7 @@
 # shapesNcolors
 Assessment for ALPHV
 
-Things i use (i guess?) :
+Things i use (i guess?) : <br>
     -   Laravel <br>
     -   Tailwindcss <br>
     -   jQuery <br>
