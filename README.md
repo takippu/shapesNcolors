@@ -7,6 +7,7 @@ Things i use (i guess?) : <br>
     -   jQuery <br>
     -   Laravel Breeze (for auth) <br>
     -   Datatables (for table, ajax request) <br>
+    -   Laravel Spatie (for roles & permissions) <br>
 
 Live view (until there is no more?) :- don't have one because free hosting doesn't support cli commands
 
