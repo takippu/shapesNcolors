@@ -38,3 +38,19 @@ Instructions to run the app
 
 
 >Info : A user was seeded at step 9, so you can use this credential which is, email: admin@example.com pass: password
+
+<h1> Preview </h1>
+
+<div> 
+    <h3>Login Page</h3> <br>
+    <img src="https://github.com/takippu/shapesNcolors/assets/70655268/e8cd3d39-93ab-416c-af37-f07b7ae2caac">
+    <h3>Register Page</h3> <br>
+    <img src="https://github.com/takippu/shapesNcolors/assets/70655268/5086f6cf-8290-4c6f-9c49-51e149af587c">
+    <h3>View Data Page</h3> <br>
+    <img src="https://github.com/takippu/shapesNcolors/assets/70655268/0e233aba-35a9-4648-aa8a-aecaf3a7e0b0">
+    <h3>Manage Data Page</h3> <br>
+    <img src="https://github.com/takippu/shapesNcolors/assets/70655268/26de4033-0e54-4c44-b3c0-abce9ff490ae">
+    <h3>Add New Data Page</h3> <br>
+    <img src="https://github.com/takippu/shapesNcolors/assets/70655268/792f7da6-621f-4ff6-a2eb-1a0e7558787b">
+
+</div>
