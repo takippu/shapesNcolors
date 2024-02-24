@@ -2,13 +2,13 @@
 Assessment for ALPHV
 
 Things i use (i guess?) :
-    -   Laravel
-    -   Tailwindcss
-    -   jQuery
-    -   Laravel Breeze (for auth)
-    -   Datatables (for table, ajax request)
+    -   Laravel <br>
+    -   Tailwindcss <br>
+    -   jQuery <br>
+    -   Laravel Breeze (for auth) <br>
+    -   Datatables (for table, ajax request) <br>
 
-Live view (until there is no more?) :- <a href="#"> here </a>
+Live view (until there is no more?) :- don't have one because free hosting doesn't support cli commands
 
 Instructions to run the app
 ==================
