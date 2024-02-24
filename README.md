@@ -26,10 +26,14 @@ Instructions to run the app
 10) Next, run "npm run dev"
 11) Then, open a new Terminal(or CMD) and run "php artisan serve"
 12) Open the address that was given (usually like this)
-	>php artisan serve
 
-   INFO  Server running on [http://127.0.0.1:8000].  
+    php artisan serve
 
-  Press Ctrl+C to stop the server
+    INFO  Server running on [http://127.0.0.1:8000].  
+
+    Press Ctrl+C to stop the server
 
 13) Open http://127.0.0.1:8000 , and you are good to go!
+
+
+>Info : A user was seeded at step 9, so you can use this credential which is, email: admin@example.com pass: password
